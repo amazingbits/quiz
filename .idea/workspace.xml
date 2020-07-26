@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fa86e41-d0ce-43bb-8c09-0c524dabda00" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1fCdfxRnAOJyQ7aPsndWoSz6ohh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fa86e41-d0ce-43bb-8c09-0c524dabda00" name="Default Changelist" comment="" />
+      <created>1595726115053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595726115053</updated>
+      <workItem from="1595726116369" duration="9724000" />
+      <workItem from="1595772827084" duration="5330000" />
+      <workItem from="1595783845018" duration="4338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="281" key="ComposerInitDialogKey" timestamp="1595727349016">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="459" y="281" key="ComposerInitDialogKey/0.0.1366.738@0.0.1366.738" timestamp="1595727349016" />
+    <state x="486" y="92" key="NewPhpClassDialog" timestamp="1595740128838">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="486" y="92" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1595740128838" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1595786133573">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1595786133573" />
+    <state x="526" y="130" key="refactoring.ChangeSignatureDialog" timestamp="1595736336116">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="526" y="130" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1595736336116" />
+  </component>
+</project>

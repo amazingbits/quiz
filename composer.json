@@ -1,0 +1,32 @@
+{
+    "name": "quiz/quiz",
+    "description": "Projeto Quiz",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Guilherme V. de Andrade - Amazing Bits",
+            "email": "contato@amazingbits.com.br",
+            "homepage": "https://amazingbits.com.br",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Boot/Config.php",
+            "source/Boot/Helpers.php"
+        ]
+    },
+    "require": {
+        "php": "^7.1",
+        "ext-pdo": "^7.1",
+        "league/plates": "v4.0.0-alpha",
+        "coffeecode/router": "^1.0",
+        "ext-mbstring": "*"
+    }
+}
